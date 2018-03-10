@@ -1,5 +1,5 @@
 # Python_Codecademy
-Este repositório possui alguns dos programas feitos por mim ao longo do curso de Python de 10horas da Codeacademy. Cada branch está nomeada de acordo com o conteúdo estudado, com exceção da primeira.   
+Este repositório possui alguns dos programas feitos por mim ao longo do curso de Python de 10horas da Codeacademy. Cada branch está nomeada de acordo com o conteúdo estudado, com exceção da primeira. A primeira Branch inclui os conhecimentos de lista, dicionário, variável, função e loop na linguagem Python.
 
 Meu perfil na Codeacademy: https://www.codecademy.com/pt-BR/GiovannaRiqueti
 
